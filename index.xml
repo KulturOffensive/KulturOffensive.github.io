@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kultur Offensive</title>
+    <link>http://kulturoffensive.github.io/index.xml</link>
+    <description>Recent content on Kultur Offensive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://kulturoffensive.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Die KulturOffensive</title>
+      <link>http://kulturoffensive.github.io/post/die-kulturoffensive/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kulturoffensive.github.io/post/die-kulturoffensive/</guid>
+      <description>
+
+&lt;p&gt;An dieser Stelle möchten wir uns euch kurz vorstellen.&lt;/p&gt;
+
+&lt;h1 id=&#34;wer-wir-sind&#34;&gt;Wer wir sind&lt;/h1&gt;
+
+&lt;p&gt;Wir sind wir.&lt;/p&gt;
+
+&lt;h1 id=&#34;was-uns-motiviert&#34;&gt;Was uns motiviert&lt;/h1&gt;
+
+&lt;h1 id=&#34;was-wir-vorhaben&#34;&gt;Was wir vorhaben&lt;/h1&gt;
+
+&lt;h1 id=&#34;wie-du-uns-unterstützen-kannst&#34;&gt;Wie du uns unterstützen kannst&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
